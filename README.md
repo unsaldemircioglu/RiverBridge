@@ -12,9 +12,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ![Screenshot 2025-03-26 023723](https://github.com/user-attachments/assets/e3ea7137-38d3-4a7f-adbf-1016905f62cf)
 <br>
 
-![Screenshot 2025-03-26 023757](https://github.com/user-attachments/assets/309d7286-23e9-45d7-b87d-73dc879cb312)
-<br>
-
 ![Screenshot 2025-03-26 023757](https://github.com/user-attachments/assets/17a2e306-c6d4-4f30-931a-d69905cc978f)
 <br>
 
