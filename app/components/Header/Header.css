@@ -1,0 +1,12 @@
+.window{
+    background-image: url("https://images.pexels.com/photos/88591/pexels-photo-88591.jpeg?auto=compress&cs=tinysrgb&w=900&h=650&dpr=2");
+    background-position: auto;
+    width: auto;
+    height: 500px;
+    background-repeat: no-repeat;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 2%;
+    background-color: cornsilk;
+}
+

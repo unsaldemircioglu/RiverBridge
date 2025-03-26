@@ -1,0 +1,6 @@
+.header{
+    border: 1px none red;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
