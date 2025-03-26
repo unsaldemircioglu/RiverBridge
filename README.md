@@ -1,3 +1,5 @@
+<h1><strong>RiverBridge</strong></h1>
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -16,21 +18,17 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<h1>Application UI</h1>
+![Screenshot 2025-03-26 023723](https://github.com/user-attachments/assets/e3ea7137-38d3-4a7f-adbf-1016905f62cf)
+<br>
+![Screenshot 2025-03-26 023757](https://github.com/user-attachments/assets/309d7286-23e9-45d7-b87d-73dc879cb312)
+<br>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+![Screenshot 2025-03-26 023757](https://github.com/user-attachments/assets/17a2e306-c6d4-4f30-931a-d69905cc978f)
+<br>
 
-## Learn More
+![Screenshot 2025-03-26 023813](https://github.com/user-attachments/assets/eb8d1f91-60b9-465d-8495-63c97034641c)
+<br>
+![Screenshot 2025-03-26 023856](https://github.com/user-attachments/assets/7e3a1eb6-a61b-48ab-b742-41e4ec971717)
+<br>
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
